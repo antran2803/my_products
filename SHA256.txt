@@ -1,1 +1,0 @@
-certutil -hashfile myapp-1.0.tar SHA256 = 1e3a684894e482568eb19eaf36e6dd602f6dbc1e409b637a840ccb13e43067be
